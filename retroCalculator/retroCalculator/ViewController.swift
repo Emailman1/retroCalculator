@@ -5,7 +5,7 @@
 //  Created by Gordon McQuillan on 08/10/2016.
 //  Copyright © 2016 Gordon McQuillan. All rights reserved.
 //this is an addition for `Git change
-//
+//and another one
 
 import UIKit
 import AVFoundation
